@@ -1,0 +1,2 @@
+[6424:6536:0219/223757.135:VERBOSE1:installer.cc(429)] "C:\Users\rgmp\Downloads\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={5B0A4E4D-EEDF-AB76-78C8-C5E877C476A7}&lang=en&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[6424:6536:0219/232639.642:VERBOSE1:installer.cc(541)] Metainstaller WMain returning: 3
